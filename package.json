@@ -1,12 +1,13 @@
 {
     "name"         : "taper",
     "description"  : "Taper (a fork of tapr) is a tap test runner that shows an appropriate level of detail with colorized output.",
-    "version"      : "0.4.0",
+    "version"      : "0.4.1-pre",
     "author"       : "James Nylen <jnylen@gmail.com>",
     "contributors" : [
         "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me)",
         "Jeff Barczewski <jeff.barczewski@gmail.com> (https://github.com/jeffbski)",
-        "James Nylen <jnylen@gmail.com> (https://github.com/nylen)"
+        "James Nylen <jnylen@gmail.com> (https://github.com/nylen)",
+        "Elliott Cable <git@elliottcable.name> (http://ell.io/tt)"
     ],
     "repository" : {
         "type" : "git",
